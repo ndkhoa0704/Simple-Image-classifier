@@ -7,4 +7,5 @@ The model is trained using scikit sochastic gradient descent linear model with 1
  - Mountain
  - Sea
 
-**Assume images for prediction are 150x150 pixels. The script does not include image resizing.**
+**Assume images for prediction are 150x150 pixels. The script does not include image resizing.**</br>
+**Data can get from here <https://www.kaggle.com/puneet6060/intel-image-classification>**
